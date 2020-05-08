@@ -1,0 +1,28 @@
+body{
+	background-color: rgb(101, 84, 100);
+	height: 100vh;
+	font-family: 'Roboto Mono', monospace;
+	margin-top: 5%;
+
+}
+.container{
+	text-align: center;
+}
+img{
+	height: 150px;
+	width: 150px;
+
+}
+figure{
+	display: inline-block;
+}
+button{
+	cursor: pointer;
+	width: 100px;
+	padding: 10px;
+	border-radius: 10%;
+	font-size: 15px;
+	font-weight: 600;
+	background-color: steelblue;
+
+}
