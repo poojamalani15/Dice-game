@@ -22,4 +22,8 @@ button.addEventListener("click", function(){
          else if(r1[4] == r2[4]){
          	head.textContent = "It's a tiee"
          }
+	else
+	{
+		head.textContent ="Game has ended"
+	}
  });
